@@ -1,29 +1,4 @@
 # the-three-dimensional-collapse-model
-# Three-Dimensional Collapse Model · Original Intellectual Record
-
-**Status**: Original Thought Record · Full Monograph in Preparation  
-**Author**: Fay Lee  
-**Date**: May 23, 2026  
-**Declaration**: This repository serves solely to establish a public timestamp and claim of originality for the core concepts below. It is not intended as a complete theoretical exposition.
-
----
-
-## Core Discovery
-
-A cognitive architecture fundamentally distinct from mainstream LLM and JEPA paradigms. This architecture redefines how agents connect logic, experience, and an external variable assignment that is not derived from training data distributions.
-
-## Key Concepts
-
-- **Three-Dimensional Collapse Model**
-- **External Variable Assignment**
-
-## Verification Status
-
-Preliminary AI collaborative network trained and front-end prototype validated using DeepSeek expert mode. Full theoretical monograph in preparation.
-
----
-
-*This document constitutes the first public record of the above original concepts. All subsequent discussion, collaboration, or publication shall reference this timestamp as the basis of priority.*
 # 三维坍缩模型 · 核心认知架构原创声明
 
 **状态**：原创思想记录 · 正式白皮书撰写中
@@ -63,3 +38,30 @@ Preliminary AI collaborative network trained and front-end prototype validated u
 ---
 
 *本文件为该原创思想的首次公开记录。任何后续讨论、合作或发表，均以此时间戳为优先权依据。*
+
+# Three-Dimensional Collapse Model · Original Intellectual Record
+
+**Status**: Original Thought Record · Full Monograph in Preparation  
+**Author**: Fay Lee  
+**Date**: May 23, 2026  
+**Declaration**: This repository serves solely to establish a public timestamp and claim of originality for the core concepts below. It is not intended as a complete theoretical exposition.
+
+---
+
+## Core Discovery
+
+A cognitive architecture fundamentally distinct from mainstream LLM and JEPA paradigms. This architecture redefines how agents connect logic, experience, and an external variable assignment that is not derived from training data distributions.
+
+## Key Concepts
+
+- **Three-Dimensional Collapse Model**
+- **External Variable Assignment**
+
+## Verification Status
+
+Preliminary AI collaborative network trained and front-end prototype validated using DeepSeek expert mode. Full theoretical monograph in preparation.
+
+---
+
+*This document constitutes the first public record of the above original concepts. All subsequent discussion, collaboration, or publication shall reference this timestamp as the basis of priority.*
+
